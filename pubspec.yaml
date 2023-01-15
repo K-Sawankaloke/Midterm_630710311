@@ -1,5 +1,6 @@
 name: midterm_630710311
 description: A new Flutter project.
+dependencies:table_calendar: ^3.0.9
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
